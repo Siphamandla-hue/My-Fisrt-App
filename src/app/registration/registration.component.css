@@ -1,0 +1,27 @@
+h1{color: blue;
+text-align: center;
+font: italic;
+}
+
+body{background-color: rgb(169, 207, 175);
+
+}
+
+.card{color: rgb(82, 100, 0);
+   left: 37%; 
+
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  .card-title{
+
+   text-align: center;
+   color: darkolivegreen; 
+  }
+  button{
+      width: 100%;
+  }
